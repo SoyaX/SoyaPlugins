@@ -1,0 +1,36 @@
+[
+    {
+        "Author": "SoyaX",
+        "Name": "Doze Anywhere",
+        "Description": "/dozeanywhere [nosnap]",
+        "Punchline": "Anywhere is a bed, if you want it to be.",
+        "InternalName": "DozeAnywhere",
+        "AssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere.zip"
+    },
+    {
+        "Author": "SoyaX",
+        "Name": "Glamourer Helper",
+        "Description": "No config, just works",
+        "Punchline": "Keep your outfits when changing zones.",
+        "InternalName": "GlamourerHelper",
+        "AssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/SoyaX/GlamourerHelper",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip"
+    }
+]
