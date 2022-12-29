@@ -2,10 +2,10 @@
     {
         "Author": "SoyaX",
         "Name": "Doze Anywhere",
-        "Description": "/dozeanywhere [nosnap]",
+        "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
         "Punchline": "Anywhere is a bed, if you want it to be.",
         "InternalName": "DozeAnywhere",
-        "AssemblyVersion": "0.1.0.0",
+        "AssemblyVersion": "0.2.0.0",
         "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
