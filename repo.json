@@ -49,22 +49,5 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip"
-    },
-    {
-        "Author": "SoyaX",
-        "Name": "Doorbell",
-        "Description": "Play a chime when someone comes into a house, when they leave or when entering a house people are already inside.",
-        "Punchline": "Play a chime when someone comes into a house.",
-        "InternalName": "Doorbell",
-        "AssemblyVersion": "0.1.0.0",
-        "RepoUrl": "https://github.com/SoyaX/Doorbell",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/Doorbell.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/Doorbell.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/Doorbell.zip"
     }
 ]
