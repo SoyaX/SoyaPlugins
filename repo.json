@@ -5,7 +5,7 @@
         "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
         "Punchline": "Anywhere is a bed, if you want it to be.",
         "InternalName": "DozeAnywhere",
-        "AssemblyVersion": "0.2.0.1",
+        "AssemblyVersion": "0.2.1.1",
         "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
