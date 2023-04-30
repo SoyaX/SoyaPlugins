@@ -32,5 +32,30 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip"
-    }
+    },
+    {
+    "Author": "LeonBlade & SoyaX",
+    "Name": "Heels Plugin [Soya Edit]",
+    "Description": "Offsets your character off the ground for when wearing heels.",
+    "InternalName": "HeelsPlugin",
+    "AssemblyVersion": "1.3.2.1",
+    "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "heels",
+      "high heels",
+      "height",
+      "offset",
+      "leonblade"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1682845382,
+    "DownloadCount": 999999999,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/HeelsSoyaX.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/HeelsSoyaX.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/HeelsSoyaX.zip"
+  }
 ]
