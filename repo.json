@@ -19,19 +19,19 @@
     {
         "Author": "SoyaX",
         "Name": "Glamourer Helper",
-        "Description": "No config, just works",
+        "Description": "Now with config",
         "Punchline": "Keep your outfits when changing zones.",
         "InternalName": "GlamourerHelper",
-        "AssemblyVersion": "0.1.0.1",
+        "AssemblyVersion": "0.2.0.2",
         "RepoUrl": "https://github.com/SoyaX/GlamourerHelper",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper.zip"
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper_0.2.0.2.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper_0.2.0.2.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper_0.2.0.2.zip"
     },
     {
     "Author": "LeonBlade & SoyaX",
