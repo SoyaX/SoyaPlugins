@@ -34,6 +34,22 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper_0.2.0.2.zip"
     },
     {
+        "Author": "SoyaX",
+        "Name": "Bunny Finder",
+        "Description": "Helps find Bunny Chests in Eureka",
+        "Punchline": "Helps find Bunny Chests in Eureka",
+        "InternalName": "BunnyFinder",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/BunnyFinder_1.0.0.0.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/BunnyFinder_1.0.0.0.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/BunnyFinder_1.0.0.0.zip"
+    },
+    {
     "Author": "LeonBlade & SoyaX",
     "Name": "Heels Plugin [Soya Edit]",
     "Description": "Offsets your character off the ground for when wearing heels.",
