@@ -5,33 +5,16 @@
         "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
         "Punchline": "Anywhere is a bed, if you want it to be.",
         "InternalName": "DozeAnywhere",
-        "AssemblyVersion": "0.2.1.2",
+        "AssemblyVersion": "0.2.2.2",
         "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere.zip"
-    },
-    {
-        "Author": "SoyaX",
-        "Name": "Glamourer Helper",
-        "Description": "Now with config",
-        "Punchline": "Keep your outfits when changing zones.",
-        "InternalName": "GlamourerHelper",
-        "AssemblyVersion": "0.2.0.3",
-        "RepoUrl": "https://github.com/SoyaX/GlamourerHelper",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper_0.2.0.3.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper_0.2.0.3.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/GlamourerHelper_0.2.0.3.zip"
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0222.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0222.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0222.zip"
     },
     {
         "Author": "SoyaX",
@@ -48,30 +31,5 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/BunnyFinder_1.0.0.0.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/BunnyFinder_1.0.0.0.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/BunnyFinder_1.0.0.0.zip"
-    },
-    {
-    "Author": "LeonBlade & SoyaX",
-    "Name": "Heels Plugin [Soya Edit]",
-    "Description": "Offsets your character off the ground for when wearing heels.",
-    "InternalName": "HeelsPlugin",
-    "AssemblyVersion": "1.3.2.1",
-    "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "heels",
-      "high heels",
-      "height",
-      "offset",
-      "leonblade"
-    ],
-    "DalamudApiLevel": 8,
-    "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": 1682845382,
-    "DownloadCount": 999999999,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/HeelsSoyaX.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/HeelsSoyaX.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/HeelsSoyaX.zip"
-  }
+    }
 ]
