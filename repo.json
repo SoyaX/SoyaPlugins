@@ -5,16 +5,16 @@
         "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
         "Punchline": "Anywhere is a bed, if you want it to be.",
         "InternalName": "DozeAnywhere",
-        "AssemblyVersion": "0.2.2.2",
+        "AssemblyVersion": "0.2.2.3",
         "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0222.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0222.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0222.zip"
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0223.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0223.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0223.zip"
     },
     {
         "Author": "SoyaX",
