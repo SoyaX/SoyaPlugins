@@ -5,31 +5,15 @@
         "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
         "Punchline": "Anywhere is a bed, if you want it to be.",
         "InternalName": "DozeAnywhere",
-        "AssemblyVersion": "0.2.2.4",
+        "AssemblyVersion": "0.2.2.5",
         "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0224.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0224.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0224.zip"
-    },
-    {
-        "Author": "SoyaX",
-        "Name": "Bunny Finder",
-        "Description": "Helps find Bunny Chests in Eureka",
-        "Punchline": "Helps find Bunny Chests in Eureka",
-        "InternalName": "BunnyFinder",
-        "AssemblyVersion": "1.0.0.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/BunnyFinder_1.0.0.0.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/BunnyFinder_1.0.0.0.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/BunnyFinder_1.0.0.0.zip"
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0225.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0225.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0225.zip"
     }
 ]
